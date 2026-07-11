@@ -151,10 +151,7 @@ Numerical computing projects demonstrating array operations, statistics and matr
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nigamkartik2006&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nigamkartik2006&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+ 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Nigamkartik2006&theme=github-dark-blue&hide_border=true"/>
