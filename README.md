@@ -168,14 +168,13 @@ Numerical computing projects demonstrating array operations, statistics and matr
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nigamkartik2006&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
----
+ ---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nigamkartik2006/Nigamkartik2006/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Nigamkartik2006/Nigamkartik2006/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
-
 ---
 
 ## 🌐 Connect with Me
