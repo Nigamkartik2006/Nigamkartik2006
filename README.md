@@ -71,8 +71,8 @@ Data Scientist • Data Analyst • Machine Learning Enthusiast • Competitive 
 </td>
 
 <td align="center" width="120">
-
-<img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>
+ 
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/><br>
 
 **SQL**
 
