@@ -34,20 +34,97 @@ Data Scientist • Data Analyst • Machine Learning Enthusiast • Competitive 
 - 📈 Exploring **Power BI, SQL, Pandas & NumPy**
 - 🌱 Preparing for **Data Analyst & ML Engineer Internships**
 
-## 🛠 Tech Stack
+ ## 🛠 Tech Stack
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center" width="120">
 
-<img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode"/><br><br>
+<img src="https://skillicons.dev/icons?i=python" width="55"/><br>
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy"/>
+**Python**
 
-</p>
-<p align="center">
+</td>
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<td align="center" width="120">
 
-</p>
+<img src="https://cdn.simpleicons.org/pandas/150458" width="55"/><br>
+
+**Pandas**
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://cdn.simpleicons.org/numpy/013243" width="55"/><br>
+
+**NumPy**
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="55"/><br>
+
+**Power BI**
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>
+
+**SQL**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=sklearn" width="55"/><br>
+
+**Scikit-Learn**
+
+</td>
+
+<td align="center">
+
+🧠<br>
+
+**Machine Learning**
+
+</td>
+
+<td align="center">
+
+💻<br>
+
+**DSA**
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=git" width="55"/><br>
+
+**Git**
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=github" width="55"/><br>
+
+**GitHub**
+
+</td>
+
+</tr>
+
+</table>
 
 ## ⭐ Featured Projects
 
